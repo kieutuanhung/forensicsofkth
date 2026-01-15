@@ -27,7 +27,11 @@
   These tags are crucial for decoding the HTML data found in the PCAP file.
   
 +Step 6, I reopen 'sustraffic.pcapng' with Wireshark and filter 'http'. I open No.60 and decode with things of 'Program' of 'MyProject(1.0.0.0,.NETCoreApp, v8.0)'.
+<img width="1790" height="851" alt="image" src="https://github.com/user-attachments/assets/0b503eb9-599e-4e58-b4b8-c444129f3ac7" />
+
   I have 'HTB{Th4ts_d07n37_'
+  
+
 So flag is 'HTB{Th4ts_d07n37_h77P_s73417hy_revSHELL}'.
 
 
