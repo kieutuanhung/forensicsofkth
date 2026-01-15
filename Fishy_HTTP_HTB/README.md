@@ -25,6 +25,7 @@
   I see someone is creating a dictionary <img width="995" height="373" alt="image" src="https://github.com/user-attachments/assets/683d4c24-fd11-4086-bb4e-2147e819bbef" />
   Then, I open 'Program' of 'MyProject(1.0.0.0,.NETCoreApp, v8.0)' <img width="1588" height="803" alt="image" src="https://github.com/user-attachments/assets/96e3d339-1bd6-407b-b207-839ddb55604e" />
   These tags are crucial for decoding the HTML data found in the PCAP file.
+  
 +Step 6, I reopen 'sustraffic.pcapng' with Wireshark and filter 'http'. I open No.60 and decode with things of 'Program' of 'MyProject(1.0.0.0,.NETCoreApp, v8.0)'.
   I have 'HTB{Th4ts_d07n37_'
 So flag is 'HTB{Th4ts_d07n37_h77P_s73417hy_revSHELL}'.
