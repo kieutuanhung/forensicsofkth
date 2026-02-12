@@ -13,7 +13,8 @@
  + Step 3, I use "vol -f  flounder-pc-memdump.elf windows.info".
     <img width="1886" height="562" alt="image" src="https://github.com/user-attachments/assets/2331086e-03d3-4412-9be6-b61b4b13ef36" />
       Then, I try "vol -f flounder-pc-memdump.elf windows.pslist" to see if I could find anything interesting.
-      <img width="1903" height="873" alt="image" src="https://github.com/user-attachments/assets/72779f79-7950-4067-ba52-1a1bef17dbd5" />
+   <img width="1913" height="999" alt="image" src="https://github.com/user-attachments/assets/a4fc1d52-803c-4b31-99e0-47878a6c18b0" />
+
       Wow! I see "496   2044   powershell.exe   18:06:58
                   2752  496    powershell.exe   18:07:00
                   2772  396    conhost.exe      18:06:58"
