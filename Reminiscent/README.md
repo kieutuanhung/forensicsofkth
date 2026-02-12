@@ -1,5 +1,5 @@
 # Reminiscent-Hack The Box
-# Challenge Ìnormation
+# Challenge Information
   + Platform: Hack The Box
   + Category: Forensics
   + Difficulty: Easy
