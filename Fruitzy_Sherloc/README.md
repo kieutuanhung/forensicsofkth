@@ -64,7 +64,6 @@ Task 1: What is the Subject/topic of the Phishing email?
         <img width="854" height="242" alt="image" src="https://github.com/user-attachments/assets/9b6c993b-df2a-4f35-bc2a-d902d09124df" />
         It is 5bxrx.exe
         That's all
-        <img width="1707" height="483" alt="image" src="https://github.com/user-attachments/assets/f26bcd8b-90e3-4f9c-841d-a4d1e0dc9154" />
 
 
 
