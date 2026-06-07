@@ -1,4 +1,4 @@
-<img width="506" height="178" alt="image" src="https://github.com/user-attachments/assets/bc7bcc4c-7c44-4874-82a7-2657eda63e19" />Sherlock: Fruitzy
+Sherlock: Fruitzy
 Difficult: Easy
 Sherlock Scenario:
 CyberJunkie started out as a junior QA Analyst at his friend's startup. He called the CEO of the startup because he believed he had mistakenly downloaded something malicious. The CEO sought help from you, his friend in the cybersecurity field. You sent him a guide on collecting evidence from the machine using KAPE. Now you have been given the forensic image so you can analyze and help your friends, as they cannot afford to hire an MSSP.
